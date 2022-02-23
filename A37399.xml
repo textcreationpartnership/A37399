@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration on the behalf of the Church of Christ usually meeting in Coleman-street, in communion with Mr.John Goodwyn, against the late insurrection made in the City of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37399</idno>
+            <idno type="STC">Wing D777C</idno>
+            <idno type="STC">ESTC R213507</idno>
+            <idno type="EEBO-CITATION">99825874</idno>
+            <idno type="PROQUEST">99825874</idno>
+            <idno type="VID">30265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30265)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration on the behalf of the Church of Christ usually meeting in Coleman-street, in communion with Mr.John Goodwyn, against the late insurrection made in the City of London.</title>
+                  <author>Pryor, Richard, fl. 1660.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Richard Pryor [and 5 others].</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30265:1"/>
+            <p>A DECLARATION On the behalf of the Church of Chriſt Uſually meeting in <hi>Coleman-ſtreet,</hi> in Communion with Mr. <hi>John Goodwyn,</hi> againſt the late INSURRECTION Made in the City of LONDON.</p>
+            <q>
+               <bibl>Acts 26.1,</bibl>
+               <p>Then Agrippa ſaid, Thou art permitted to ſpeak for thy ſelf.</p>
+            </q>
+            <q>
+               <bibl>Gen. 18.23, 25.</bibl>
+               <p>Wilt thou alſo deſtroy the righteous with the wicked: That be far from
+thee—ſhall not the judge of all the earth do right?</p>
+            </q>
+            <q>
+               <bibl>Rom. 13.3.</bibl>
+               <p>For Rulers are not a terrour unto good works, but to the evil.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold in <hi>Fleet-ſtreet,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:30265:2"/>
+            <pb n="1" facs="tcp:30265:2"/>
+            <head>A DECLARATION On the behalf of the Church of Chriſt, uſually meeting in <hi>Coleman-ſtreet,</hi> in Communion with, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S the notion is not more common then true, that nothing ought to be dearer to a man then his reputation, and he, who hath out-lived his credit, and honour, amongſt ſober and ju<g ref="char:EOLhyphen"/>dicious men, may ſeem to have out-lived himſelf, and hath little or nothing of any va<g ref="char:EOLhyphen"/>lue more to loſe: And becauſe nothing can be of worſe reſentment and reception amidſt the publick en<g ref="char:EOLhyphen"/>deavours, to reſtore the peace and unity of the Nation, then diſcords, animoſities, tumults, and inſurrections, we finding our innocency in the late diſorders, nor to be our full ſecurity and juſt protection in this kind, are conſtrained to give an account of our ſelves, in relation to thoſe high miſdemeanours, and to make this our Declaration to the world.</p>
+            <p>We cannot but wonder what ſhould bring us ſo much as into ſuſpicion of being countenancing, favouring, abetting, or any way acceſſary to the late extravagant and bloody attempt,
+<pb n="2" facs="tcp:30265:3"/>unleſſe it were, that meeting ſometimes under the ſame roof, we come meerly upon this account, to be entitled to the ſame tranſgreſſion, wherewith notwithſtanding in reaſon, we can no more be charged, then a man of one family might be with murder committed by a perſon of another, only for that, both of them were lodged under the ſame roof.</p>
+            <p>We have a record within us, how zealous we have been from time to time againſt all ſuch deſtructive principles, as tending to the very ruine of the eſſence and being of all rule and Magiſtracy, which we have alwayes looked upon, and ſought to uphold, as the uſeful and neceſſary Ordinance of God; and have endeavoured what in us lies to abate that unnatural heat, and regulate that ill-nurtured zeal, which in ſome men, like <hi>Nebuchadnezzars</hi> furnace, continually evapo<g ref="char:EOLhyphen"/>rated ſmoak and fire; and this we did, as became us, out of the ſence of our duty, for their ſake, and for our own, and for the ſake of Religion, and the peace of the Kingdom.</p>
+            <p>As for that ſtrange and unparalleld act, of turning their oratory into a Magazine, and their prayers and tears, the ſpiri<g ref="char:EOLhyphen"/>tual armour of a Chriſtian, into ſwords and helmets, and under the pretence of Religion, and the advancement of the honour and kingdome of Jeſus, after an hoſtile manner to enter the City, force the guards, and kill his Majeſties good ſubjects doing their duty, in keeping the peace, we cannot ſufficiently declare our utter diſlike and deep deteſtation of ſuch things; neither will poſterity believe that attempts of this nature could ever be made by true Engliſh men, by fellow Citizens, leaſt of all by Chriſtians profeſſing the fear of God, and faith of the Goſpel.</p>
+            <p>For the Principles leading the late Actors to this ſad Tra<g ref="char:EOLhyphen"/>gedy.</p>
+            <p n="1">1. We concurre with them in the common faith, and ge<g ref="char:EOLhyphen"/>neral expectation of Chriſts coming again to the earth, he is not removed from us for ever, he is gone <hi>cum animo reverten<g ref="char:EOLhyphen"/>di,</hi> with a purpoſe to return to us again at his appointed time. He is that Noble man mentioned in the Goſpel, <hi>Luke</hi> 19.12.
+<pb n="3" facs="tcp:30265:3"/>
+               <hi>Who is gone into a far Country, to receive for himſelf a King<g ref="char:EOLhyphen"/>dome; and to return.</hi> But to think to accelerate and haſten his coming by force and violence, or preciſely to limit his time, and fix him a day, either in his perſon, or in his power, for the erecting for himſelf a Throne here, is the inſolency and im<g ref="char:EOLhyphen"/>modeſt preſumption of ſome mens ſpirits; yea, and is not only irrational, impious, and abſurd, but (as very many learned and ſober men conceive) contrary to the very letter of the Scriptures, and expreſſe words of our Saviour, <hi>Matth.</hi> 24.36. <hi>Of that day and hour knoweth no man, no not the Angels of hea<g ref="char:EOLhyphen"/>ven, but my father only.</hi> And we wonder the rather at thoſe, who being Predeſtinarians in their opinions, and holding all things to ſucceed by the ſecret force of an irreſiſtable Decree, ſhould thus, <hi>immaturo fato,</hi> prepoſterouſly anticipate the hea<g ref="char:EOLhyphen"/>venly determination, which in due time of abſolute neceſſity muſt have taken effect, unleſſe they thought themſelves par<g ref="char:EOLhyphen"/>ticularly decreed and deſigned <hi>ab eternò</hi> to this miſerable en<g ref="char:EOLhyphen"/>terpriſe.</p>
+            <p n="2">2. We enter our juſt proteſtation againſt their unchriſti<g ref="char:EOLhyphen"/>an and unman-like principle, after the cuſtome of <hi>Maho<g ref="char:EOLhyphen"/>met,</hi> to propagate Religion by the ſword: The Goſpel we own and profeſs, is not <hi>Evangelium armatum,</hi> an armed Goſpel; the weapons of that warfare, wherein we ſerve as Chriſtians, are not carnal, but ſpiritual: The Scriptures, Rea<g ref="char:EOLhyphen"/>ſons, and Arguments, are thoſe offenſive and defenſive armes that we have taken up, in the quarrel of Religion, and with which, and no other, we ſeek to defend, propagate and main<g ref="char:EOLhyphen"/>tain it. If it were their principle to reduce men to the obe<g ref="char:EOLhyphen"/>dience of Chriſt, in a way leſſe mild, rational and convictive, we aſſure the world it is none of ours.</p>
+            <p>And though we have made our ſelves enemies to them, and many of our brethren in the Nation, by our denying all exter<g ref="char:EOLhyphen"/>nal force and compulſion in matters of Religion, as judging it eccentrick and diſagreeable, both to the divine Wiſdom and the rationall creature man, yet we cannot but be ſtill of that o<g ref="char:EOLhyphen"/>pinion, and are the more fixt and ſettled therein, by the late
+<pb n="4" facs="tcp:30265:4"/>violent and irregulat attempts amongſt us.</p>
+            <p n="3">3. And further, we declare to all the world by this pub<g ref="char:EOLhyphen"/>lick paper, what yet we preſume hath been enough evinced al<g ref="char:EOLhyphen"/>ready in our manners and deportment; that we are far from diſowning the preſent Powers and Dominions of the earth, and inparticular that of his Majeſty, utterly renouncing that principle, whether appropriately Papal, or by whomſoever owned or profeſſed, <hi>That all temporal power is founded in grace;</hi> ſince the preſent <hi>Kingdome of Chriſt is not of this world,</hi> and that the Rulers and Governours that be, hold not <hi>in capite</hi> of Chriſt, as head of the Church, but (as we humbly conceive) of God the Father, whoſe Deputies and Vicegerents they are: He it is that pulleth down one, and ſetteth up another; as it is ſaid, <hi>He removeth Kings, and ſetteth up Kings,</hi> Dan. 2.21. For by the ſame reaſon, they might null and make void the titles of the preſent Kings and Princes of the earth, to their reſpective Crowns and dignities, they might deſtroy the right, intereſt, and title of all wicked men, <hi>quatenus</hi> wicked men, to all their earthly inheritances and eſtates, lawfully pur<g ref="char:EOLhyphen"/>chaſed, or deſcended upon them from their Anceſtors; then which nothing could be more ſubverſive of weal-publick, per<g ref="char:EOLhyphen"/>nicious to humane ſociety, and deſtructive of all right and property in the world. The Kingdome of Chriſt that now is, being ſpiritual, ſeeketh not to intermeddle by outward force or violence with the Kingdomes of the earth that are worldly and external; neither indeed, being duely and orderly manna<g ref="char:EOLhyphen"/>ged and promoted, can it; ſo different are they in their na<g ref="char:EOLhyphen"/>tures and qualities one from another: Beſides we look upon and follow, both in our principles and practice, Chriſt and his Diſciples, as our beſt teaching examples, who in the adminiſtra<g ref="char:EOLhyphen"/>tion of this Kingdome did not detract from, or deny obedi<g ref="char:EOLhyphen"/>ence to thoſe in power and authority, our Saviour himſelf in<g ref="char:EOLhyphen"/>joyning tribute to be paid unto <hi>Ceſar;</hi> and the Apoſtles pleading ſubjection to <hi>Nero,</hi> notwithſtanding they were ſuch as yielded no obedience or ſubjection unto Chriſt in his King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>
+               <pb n="5" facs="tcp:30265:4"/>
+There is no reaſon then we ſhould either in whole, or in part, ſuffer under a crime, we never knew of, much leſs conſen<g ref="char:EOLhyphen"/>ted unto; or that we ſhould in the leaſt, be thought concern<g ref="char:EOLhyphen"/>ed in the guilt of thoſe perſons, ſince they themſelves upon their ſtrict examination, did fully acquit us, as knowing right well how averſe, and contrary, both in our principles and pra<g ref="char:EOLhyphen"/>ctiſes we have alwayes been to them in all their violent pro<g ref="char:EOLhyphen"/>cedures.</p>
+            <p>And though our own teſtimony concerning our ſelves, go<g ref="char:EOLhyphen"/>eth not farre, either in Law or reaſon, towards our full juſti<g ref="char:EOLhyphen"/>fication, yet the credit and authority of our known Principles, diametrically repugnant to practiſes of this nature, in conjun<g ref="char:EOLhyphen"/>ction with our loyalty, never yet ſtained with any impeaceable or tumultuous deportment, under the civill government of theſe Kingdomes, but conſtantly teſtified, by our ready ſub<g ref="char:EOLhyphen"/>jection, to all its juſt demands, promoting the intereſt, honour and ſafety thereof, according to our power, and opportunity, will (we hope) upon ſerious reflection, and calme delibera<g ref="char:EOLhyphen"/>tion, be our ſufficient vindication. For we are ſure, we are ſo far from being enemies to government (the uſuall charge brought in againſt the people of God) that if we have fallen it hath rather been on the other hand, by a conſtant and uninter<g ref="char:EOLhyphen"/>rupted ſubmiſſion to all that are, or have been ſet over us, for conſcience ſake; we little queſtion, but our moderation in this reſpect, is knowne unto all thoſe, whoſe eyes have not been ei<g ref="char:EOLhyphen"/>ther coloured with prejudice, or weakened by looking on us, in our Chriſtian fellowſhip, at too great a diſtance.</p>
+            <p>And thus we juſtly ſeek to vindicate, and clear our ſelves from the fears, jealouſies, and ſuſpitions of the late tumults without further cenſuring, or ſtigmatizing thoſe, who have al<g ref="char:EOLhyphen"/>ready ſatisfied the Law, and are gone to give an account of their actions, and to receive their finall, and more definitive ſentence. To cloſe up all</p>
+            <p>We doe not much complain of that reſtraint that was laid upon our Chriſtian liberties, in the heat of action, and per<g ref="char:EOLhyphen"/>plexity of affairs, whilſt a perfect diſcrimination twixt the no<g ref="char:EOLhyphen"/>cent
+<pb n="6" facs="tcp:30265:5" rendition="simple:additions"/>and the innocent, could not eaſily be made; but now that time which diſcovers all things, hath mace apparent who thoſe offenders were, and brought them to examplary puniſh<g ref="char:EOLhyphen"/>ment, we hope the Kings Majeſty will heare and diſtinguiſh, twixt the good, and the bad, and reſtore us to our priſtine li<g ref="char:EOLhyphen"/>berty, purchaſed by the blood of Chriſt, and confirmed by his Majeſties voluntary promiſe, and unextorred Declaration, imi<g ref="char:EOLhyphen"/>tating the Judge of all the World, who mingleth not the inno<g ref="char:EOLhyphen"/>cent, with the guilty; neither puniſheth the righteous, with the wicked, <hi>ſhall not the Judge and Ruler</hi> of the Nation <hi>doe right?</hi>
+            </p>
+            <p>And though we have intermitted our weekly courſe of joynt prayers, and ſupplications to the God of Heaven, for our ſelves for the King, and for all that are in Authority, and for our Country, and for the whole people of God, untill we have made this our juſt vindication, we hope to anſwer it the better another day, to the father of ſpirits, and the God of our com<g ref="char:EOLhyphen"/>munion, ſince we have not forfeited our liberty, by abuſing it in any unworthy or unchriſtian deportment, no not (to the beſt of our knowledge) ſo much as by a careleſs ſyllable, or undue expreſſion.</p>
+            <closer>
+               <signed>Signed on the behalfe of the Church by
+<list>
+                     <item>Richard Pryor.</item>
+                     <item>John Weekes.</item>
+                     <item>John Wightman.</item>
+                     <item>George Backlar.</item>
+                     <item>Joſeph Huchinſon.</item>
+                     <item>Edw: Addenbrook.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
